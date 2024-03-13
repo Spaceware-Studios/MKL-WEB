@@ -8,7 +8,7 @@ Location of favicon.ico in MKL V2-V4 (V2 says V2, V3 says V3, and so on): [PAREN
 Location of favicon.ico in MKL V1: [PARENT FOLDERS HERE]\MineKhanLauncherV1\favicon.ico
 
 Installing mods: 
-See "Adding mods.txt".
+See "Modding.txt".
   
 Credits: 
 SpaceSoldier248 and Karllr for launcher
