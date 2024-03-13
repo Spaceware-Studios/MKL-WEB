@@ -11,5 +11,5 @@ Installing mods:
 See "Adding mods.txt".
   
 Credits: 
-SpaceSoldier248 for launcher
+SpaceSoldier248 and Karllr for launcher
 Willard, thingMaker, and assorted Khan Academy users for versions (see menu pages for names)
